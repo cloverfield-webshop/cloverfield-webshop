@@ -36,7 +36,7 @@ No frameworks, no monthly fees, no external services required — just PHP, MySQ
 
 ## Licence and price
 
-Cloverfield Webshop 2.0 is commercial software: **€ 37.95, one-time**. You get the full PHP source code, unlimited shops for yourself and your clients, and free updates within version 2.
+Cloverfield Webshop 2.0 is commercial software: **€ 89, one-time**. You get the full PHP source code, unlimited shops for yourself and your clients, and free updates within version 2.
 
 👉 [Buy Cloverfield Webshop](https://designbox.nl/shop/kopen.php?lang=en)
 
